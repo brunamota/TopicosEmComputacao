@@ -1,1 +1,1 @@
-![cabecalhoGitTC](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/fcb50ad6-cc12-4d29-befa-a7db5b1bffb6)
+![cabecalhoGitTC](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/552fd69f-7fd4-4a00-a076-91771def81f5)
