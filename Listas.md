@@ -1,6 +1,6 @@
-Lista 1 - Kahoot - Conceitos básicos de computador
+[Lista 1 - Kahoot - Conceitos básicos de computador](https://kahoot.it/)
 
-Lista 2 - Conceitos básicos de hardware, software e firmware
+[Lista 2 - Conceitos básicos de hardware, software e firmware](https://forms.gle/By76nheYPQjMSiNG9)
 
 Lista 3 - História da computação e Sistemas Operacionais
 
