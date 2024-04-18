@@ -10,5 +10,5 @@
 ![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) [Aulas](https://github.com/brunamota/TopicosDeComputacao/blob/main/Aulas.md)
 
 
-![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) Listas de Exercícios
+![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) [Listas de Exercícios](https://github.com/brunamota/TopicosDeComputacao/blob/main/Listas.md)
 
