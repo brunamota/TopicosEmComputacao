@@ -11,19 +11,19 @@ Sexta - 15h30 às 17h10 - LEC 02
 
 ## Datas Importantes
 
-Prova 1 - 23/05/2024
+![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) Prova 1 - 23/05/2024
 
-Prova 2 - 12/07/2024
+![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) Prova 2 - 12/07/2024
 
 ## Ferramenta utilizada na disciplina
 
-https://www.codeblocks.org/downloads/
+![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) https://www.codeblocks.org/downloads/
 
 ## Sololearn
 
-Introdução a C - https://www.sololearn.com/pt/learn/courses/c-introduction
+![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) Introdução a C - https://www.sololearn.com/pt/learn/courses/c-introduction
 
-Fundamentos de Códigos - https://www.sololearn.com/pt/learn/courses/coding-foundations
+![iconGit2](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/82f7836f-37bd-4bc7-a230-659f4f501fce) Fundamentos de Códigos - https://www.sololearn.com/pt/learn/courses/coding-foundations
 
 ## Documentos da Disciplina
 
