@@ -1,3 +1,5 @@
+![cabecalhoGitLista](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/50a546d0-2f78-47f9-b331-f72bdf8902da)
+
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 1 - Kahoot - Conceitos básicos de computador](https://kahoot.it/) 
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 2 - Conceitos básicos de hardware, software e firmware](https://forms.gle/By76nheYPQjMSiNG9)
