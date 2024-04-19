@@ -4,7 +4,7 @@
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 2 - Conceitos básicos de hardware, software e firmware](https://forms.gle/By76nheYPQjMSiNG9)
 
-![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 3 - História da computação e Sistemas Operacionais
+![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 3 - História da computação e Sistemas Operacionais](https://forms.gle/xZZTU3AKjnE8q7uT7)
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 4 - Conversão de Base (Binário e Hexadecimal)
 
