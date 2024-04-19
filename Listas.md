@@ -1,4 +1,4 @@
-[Lista 1 - Kahoot - Conceitos básicos de computador](https://kahoot.it/) ![pngwing com (3)](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/9e018739-4b84-4eb4-a547-86d5051e1c08)
+![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 1 - Kahoot - Conceitos básicos de computador](https://kahoot.it/) 
 
 [Lista 2 - Conceitos básicos de hardware, software e firmware](https://forms.gle/By76nheYPQjMSiNG9)
 
