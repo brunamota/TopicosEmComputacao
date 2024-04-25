@@ -5,7 +5,8 @@
 ![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 2 - Conceitos básicos de hardware, software e firmware](https://github.com/brunamota/TopicosDeComputacao/files/15043486/Aula.2.-.Conceitos.basicos.de.hardware.software.e.firmware.pdf)
 
 
-![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 3 - História da computação e Sistemas Operacionais
+![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 3 - História da computação e Sistemas Operacionais](https://github.com/brunamota/TopicosDeComputacao/files/15112990/Aula.3.-.Historia.da.computacao.e.Sistemas.Operacionais.pdf)
+
 
 ![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 4 - Conversão de Base (Binário e Hexadecimal)
 
