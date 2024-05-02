@@ -10,7 +10,7 @@
 
 ![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 4 - Conversão de Base (Binário e Hexadecimal)](https://github.com/brunamota/TopicosEmComputacao/files/15132176/Aula.4.-.Conversao.de.Base.Binario.e.Hexadecimal.pdf)
 
-![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 5 - Redes de computadores e Sistemas gerenciadores de bancos de dados
+![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 5 - Redes de computadores e Sistemas gerenciadores de bancos de dados]((https://github.com/brunamota/TopicosEmComputacao/files/15190303/Aula.5.-.Redes.de.computadores.e.Sistemas.gerenciadores.de.bancos.de.dados.pdf))
 
 ![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 6 - Introdução a algoritmos
 
