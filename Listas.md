@@ -10,11 +10,9 @@
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 5 - Redes de computadores e Sistemas gerenciadores de bancos de dados](https://forms.gle/FRtfBfVMd6SSs71Q6)
 
-![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 6 - Introdução a algoritmos
+![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 6 - Dados primitivos, atribuição, variáveis, constantes, entrada/saída de dados](https://docs.google.com/forms/d/1gK9H02OJaJvnyla7wBg_uE7pYfOM3mN8IPfEY9MekLo/edit)
 
-![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 7 - Linguagem natural, pseudocódigos, fluxogramas
-
-![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 8 - Dados primitivos, atribuição, variáveis, constantes, entrada/saída de dados
+![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 7 - Estrutura Sequencial
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 9 - Operadores lógicos e Expressões lógicas
 
@@ -25,6 +23,8 @@
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 12 - Variáveis Compostas Unidimensionais (Vetores)
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 13 - Variáveis Compostas Unidimensionais (Matrizes)
+
+![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 12 - Linguagem natural, pseudocódigos, fluxogramas
 
 
 
