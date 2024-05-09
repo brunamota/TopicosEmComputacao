@@ -1,4 +1,4 @@
-# Aula 8: Operadores Lógicos e Expressões Lógicas
+# Aula 7: Operadores Lógicos e Expressões Lógicas
 
 ### Operadores Lógicos:
 
