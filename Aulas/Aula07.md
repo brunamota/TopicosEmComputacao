@@ -12,6 +12,20 @@ Os operadores lógicos são utilizados para combinar ou negar expressões lógic
 | F | F | V |
 | F | F | F |
 
+A proposição lógica "E" (&&) é verdadeira apenas quando todas as proposições são verdadeiras. Veja alguns exemplos:
+
+Exemplo 1:
+Proposição 1: Está chovendo.
+Proposição 2: Está ventando.
+Proposição lógica: Está chovendo && Está ventando.
+Neste caso, a proposição lógica seria verdadeira apenas se as duas condições (está chovendo e está ventando) fossem verdadeiras.
+
+Exemplo 2:
+Proposição 1: Hoje é segunda-feira.
+Proposição 2: Hoje é feriado.
+Proposição lógica: Hoje é segunda-feira && Hoje é feriado.
+Neste caso, a proposição lógica seria falsa, pois nem todas as condições são verdadeiras.
+
 - OU lógico (| |): Retorna verdadeiro se pelo menos uma das expressões for verdadeira.
 
 | A | \| \| | B |
@@ -21,12 +35,42 @@ Os operadores lógicos são utilizados para combinar ou negar expressões lógic
 | F | V | V |
 | F | F | F |
 
+A proposição lógica "OU" (||) é verdadeira quando pelo menos uma das proposições é verdadeira. Veja alguns exemplos:
+
+Exemplo 1:
+Proposição 1: Está chovendo.
+Proposição 2: Está ventando.
+Proposição lógica: Está chovendo || Está ventando.
+Neste caso, a proposição lógica seria verdadeira se pelo menos uma das condições (está chovendo ou está ventando) fosse verdadeira.
+
+Exemplo 2:
+Proposição 1: Hoje é segunda-feira.
+Proposição 2: Hoje é sábado.
+Proposição lógica: Hoje é segunda-feira || Hoje é sábado.
+Neste caso, a proposição lógica seria falsa, pois apenas uma das condições é verdadeira.
+
 - NÃO lógico (!): Inverte o valor da expressão, se for verdadeira, torna-se falsa e vice-versa.
 
 | ! | A |
 |   :---:  |   :---:  |
 | F | V |
 | V | F |
+
+Proposição original: Está chovendo.
+Proposição de negação: ¬(Está chovendo).
+
+Neste caso, a proposição de negação seria verdadeira se a proposição original "Está chovendo" fosse falsa, e falsa se a proposição original fosse verdadeira.
+
+Então, podemos ter os seguintes cenários:
+
+Se está chovendo (proposição original verdadeira), a negação (¬(Está chovendo)) seria falsa.
+Se não está chovendo (proposição original falsa), a negação (¬(Está chovendo)) seria verdadeira.
+
+Outro exemplo:
+Proposição original: Hoje é segunda-feira.
+Proposição de negação: ¬(Hoje é segunda-feira).
+
+Neste caso, a proposição de negação seria verdadeira se a proposição original "Hoje é segunda-feira" fosse falsa, e falsa se a proposição original fosse verdadeira.
 
 ### Expressões Lógicas:
 
