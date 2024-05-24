@@ -14,6 +14,8 @@
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 7 - Estrutura Sequencial](https://docs.google.com/forms/d/1azvF_hVV9imfhFXCU54UXH0S0pUagvItMAJxjuy_ubo/edit)
 
+![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 8 - Estrutura Sequencial](https://docs.google.com/forms/d/1azvF_hVV9imfhFXCU54UXH0S0pUagvItMAJxjuy_ubo/edit)
+
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 9 - Operadores lógicos e Expressões lógicas
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 10 - Estrutura condicional simples e compostas
