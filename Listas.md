@@ -18,7 +18,7 @@
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 9 - Linguagem C](https://docs.google.com/forms/d/1liEzQc2r8jpMXDdxL2CyDMlepCU73aXv7obW6jGuYAE/edit)
 
-![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 10 - ](https://forms.gle/2PbvAwu9rF15zkiX6)
+![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) [Lista 10 - Operadores lógicos e Expressões lógicas](https://forms.gle/2PbvAwu9rF15zkiX6)
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 11 - While, Do-While e For
 
