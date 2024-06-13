@@ -26,8 +26,6 @@
 
 ![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 13 - Variáveis Compostas Unidimensionais (Matrizes)
 
-![iconGitResistencia](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/1b014845-2ebd-464d-9403-be0ce6f3a243) Lista 12 - Linguagem natural, pseudocódigos, fluxogramas
-
 
 
 
