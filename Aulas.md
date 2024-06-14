@@ -16,9 +16,9 @@
 
 ![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 7 - Operadores lógicos e Expressões lógicas](https://github.com/brunamota/TopicosEmComputacao/blob/main/Aulas/Aula07.md)
 
-![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 8 - Estrutura condicional simples e compostas
+![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 8 - Estrutura condicional simples e compostas](https://github.com/brunamota/TopicosEmComputacao/blob/main/Aulas/Aula08.md)
 
-![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 9 - While, Do-While e For
+![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 9 - While, Do-While e For](https://github.com/brunamota/TopicosEmComputacao/blob/main/Aulas/Aula09.md)
 
 ![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 10 - Variáveis Compostas Unidimensionais (Vetores)
 
