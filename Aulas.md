@@ -20,9 +20,7 @@
 
 ![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 9 - While, Do-While e For](https://github.com/brunamota/TopicosEmComputacao/blob/main/Aulas/Aula09.md)
 
-![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 10 - Variáveis Compostas Unidimensionais (Vetores)
+![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 10 - Variáveis Compostas Unidimensionais (Vetores)](https://github.com/brunamota/TopicosEmComputacao/blob/main/Aulas/Aula10.md)
 
-![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 11 - Variáveis Compostas Unidimensionais (Matrizes)
-
-![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) Aula 12 - Linguagem natural, pseudocódigos, fluxogramas
+![iconGitM](https://github.com/brunamota/TopicosDeComputacao/assets/66503956/72a3ce98-a4d7-4e9f-8d7f-eabfee3b0d6d) [Aula 11 - Variáveis Compostas Unidimensionais (Matrizes)](https://github.com/brunamota/TopicosEmComputacao/blob/main/Aulas/Aula11.md)
 
